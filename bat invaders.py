@@ -1044,7 +1044,7 @@ while True:
                 screen.fill("Red")
                 draw_text("you lose", vbig_font, col, 250, 200)  
 
-
+    #test
     if game_state == "collision":
             
         if spaceshipR_rect.colliderect(bat_rect1):
